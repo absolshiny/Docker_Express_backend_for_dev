@@ -17,8 +17,8 @@
 
   ## How to use it:
 
-1.-ge the repo
-2.- modify it to your needs
-3.- build the image
-4.- run the image
-5.- If you want to add more features or fix bugs repeat step 2 to 4
+1. Clone the repository.
+2. Modify the code to your needs.
+3. Build the Docker image.
+4. Run the Docker container.
+5. (Optional) Repeat steps 2-4 for further modifications or bug fixes.
