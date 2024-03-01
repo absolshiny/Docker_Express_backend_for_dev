@@ -13,7 +13,7 @@
 
 - Run the image :
   
-      docker run -p 3000:3000 backend_express
+       docker run -p 3000:3000 backend_express
 
   ## How to use it:
 
